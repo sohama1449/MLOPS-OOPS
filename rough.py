@@ -8,3 +8,7 @@ print(type(my_int))
 
 lst.clear()
 print(lst)
+
+from oops_proj import Chatbook # oops concept behind this line
+
+user1 = Chatbook()
