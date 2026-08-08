@@ -1,0 +1,23 @@
+1. clas, object
+2. class has data/ att, and has some functionalities
+
+attributes are called automatically, methods are called manually
+
+** constructor methos is called quickly after obj created means --> " bante hi call ho jata hai"
+
+** why constructor is special:
+--> bcz the attributes and data in constructor are called automatically as soon as we created obj
+
+** what is  need of it to call automatically :
+-> we defined attributes or data in constructor which we cant give the user to define manually so it run after callinga automatically.
+
+** why py is obj oriented programming:
+--> any random data type in py is class 
+--> everythin in py is obj of an any class
+
+** adv of oops :
+--> we can create our own datatype
+    a+b = a+b but in py if we mention print(x+y) = xy, so in py still there is no any alebra datatype but we can make it using oops
+    code resuable
+    debugging
+    easy to colab
