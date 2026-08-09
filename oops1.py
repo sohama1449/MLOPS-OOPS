@@ -1,6 +1,7 @@
 class Employee:
     # special funcion/methods/ magic methos(constructor)/dunder method
-    def __init__(self):
+    def __init__(self): 
+        print(id(self))
         print("starts the constructor")
         self.id = 123
         self.designation = "Software Engineer"
@@ -15,6 +16,7 @@ class Employee:
 #create an obj/ instance of class Employee
 
 sam = Employee()
+print(id(sam))
 
 #print(sam.id)        
 sam.travel("Kolhapur")

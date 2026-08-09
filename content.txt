@@ -21,3 +21,23 @@ attributes are called automatically, methods are called manually
     code resuable
     debugging
     easy to colab
+
+diff btn func & methos :
+--> In Python, a function is an independent, reusable block of code that performs a task. A method is also a function, but it is defined inside a class and is associated with an object or class.
+    Functions are generally called directly by their name, while methods are called using an object or class with dot notation.
+    An instance method usually receives self, which refers to the current object
+
+** id :
+--> id denotes the location of memory on which our data is saved
+
+
+**Encapsulaion:
+--> for security purpose if we want to hide any attributes or methods from anyone we just keep __ before method or attribute
+    We cant protect 100percent in python --> so we can use another language
+
+** getter and setter :
+--> to get and set hidden att (for def <any name> (self):)  function name can any
+
+**static method:
+--> @staticmethod : if we not mention self in argument is allow we can direct giveparameteres
+     using static method deirectly from class rather than obj (static method has no need of object)
