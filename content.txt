@@ -41,3 +41,22 @@ diff btn func & methos :
 **static method:
 --> @staticmethod : if we not mention self in argument is allow we can direct giveparameteres
      using static method deirectly from class rather than obj (static method has no need of object)
+
+** inheritance:
+--> child can inherit att and methods from parent or base class
+    reusable code, paent has no access of child class
+    what inerites : constructor, non-private att, non-private methods 
+    Method overloading means using the same method name with different numbers or types of parameters.
+
+
+** super     :
+--> fetch parents constructor or methods 
+    only used inside "child class", not with object
+
+
+** inheritance :
+1. single
+2. multilevel
+3. hierarchial
+4. multiple
+5. hybrid
