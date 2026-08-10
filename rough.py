@@ -29,3 +29,4 @@
 
 
 print(a=5)
+print(b= 6)
